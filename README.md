@@ -67,6 +67,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/alissonsartori/alissonsartori/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/alissonsartori/alissonsartorii/output/snake.svg" alt="Snake animation" />
 
 ###
