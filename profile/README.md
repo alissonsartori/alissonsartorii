@@ -1,4 +1,5 @@
-<h2 align="left">Olá meu nome é Alisson Sartori<br><br>Sou formado em Análise e Desenvolvimento de Sistemas pela Universidade Nove de Julho e estou sempre em busca de evolução profissional. Atualmente, aprofundo meus conhecimentos em gestão de projetos e desenvolvimento de software, com foco em metodologias ágeis e boas práticas de programação. Além disso, venho aprimorando o inglês para expandir minhas possibilidades de atuação em ambientes multiculturais e globalizados.</h2>
+<h2 align="left">Olá meu nome é Alisson Sartori</h2>
+<p>Sou formado em Análise e Desenvolvimento de Sistemas pela Universidade Nove de Julho e estou sempre em busca de evolução profissional. Atualmente, aprofundo meus conhecimentos em gestão de projetos e desenvolvimento de software, com foco em metodologias ágeis e boas práticas de programação. Além disso, venho aprimorando o inglês para expandir minhas possibilidades de atuação em ambientes multiculturais e globalizados.</p>
 
 ###
 
