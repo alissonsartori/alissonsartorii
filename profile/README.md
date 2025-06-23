@@ -53,11 +53,13 @@
 
 ###
 
-<div align="left">
- 
-[Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/alisson-sebastian-sartori/) 
-[Gmail Badge](https://img.shields.io/badge/-alissonsartori33@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alissonsartori33@gmail.com)](mailto:alissonsartori33@gmail.com) <br>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6932f5&height=180&section=header&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+<div align="center">
+  <a href="alissonsartori33@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/alisson-sebastian-sartori/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
 </div>
 
 ###
