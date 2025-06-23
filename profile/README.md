@@ -55,8 +55,8 @@
 
 <div align="left">
  
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/alisson-sebastian-sartori/) 
-[![Gmail Badge](https://img.shields.io/badge/-alissonsartori33@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alissonsartori33@gmail.com)](mailto:alissonsartori33@gmail.com) <br>
+[Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/alisson-sebastian-sartori/) 
+[Gmail Badge](https://img.shields.io/badge/-alissonsartori33@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alissonsartori33@gmail.com)](mailto:alissonsartori33@gmail.com) <br>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6932f5&height=180&section=header&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 </div>
 
