@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Onest&size=40&pause=1000&width=435&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Alisson+Sartori+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Onest&size=29&pause=1000&width=435&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Alisson+Sartori+)](https://git.io/typing-svg)
 
 <p>Sou formado em Análise e Desenvolvimento de Sistemas pela Universidade Nove de Julho e estou sempre em busca de evolução profissional. Atualmente, aprofundo meus conhecimentos em gestão de projetos e desenvolvimento de software, com foco em metodologias ágeis e boas práticas de programação. Além disso, venho aprimorando o inglês para expandir minhas possibilidades de atuação em ambientes multiculturais e globalizados.</p>
 
@@ -54,15 +54,10 @@
 ###
 
 <div align="left">
-  <a href="396441389719748620" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-  <a href="alissonsartori33@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/alisson-sebastian-sartori/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
+ 
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lilian-carvalho/)](https://www.linkedin.com/in/lilian-carvalho-7581a8265/) 
+[![Gmail Badge](https://img.shields.io/badge/-liliancarvalho.developer@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:liliancarvalho.developer@gmail.com)](mailto:liliancarvalho.developer@gmail.com) <br>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6932f5&height=180&section=header&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 </div>
 
 ###
@@ -72,3 +67,10 @@
 <img src="https://raw.githubusercontent.com/alissonsartori/alissonsartorii/output/snake.svg" alt="Snake animation" />
 
 ###
+
+<div align="center">
+<br>
+  <p align="centre"><b>Visitors Count</b></p>  
+  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{alissonsartori}/count.svg" /></p> 
+<br>
+</div>
